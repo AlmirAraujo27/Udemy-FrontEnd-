@@ -1,0 +1,39 @@
+body{
+    background-color: #ccc;
+
+}
+
+
+h1{
+    color: wheat;
+    font-family: arial,Arial, Helvetica, sans-serif;
+    font-size: 56px;
+}
+
+h2{
+    font-size: 48px ;
+    font-style: italic;
+    font-weight: normal;
+}
+h3{
+    font-size: 38px;
+    text-transform: capitalize;
+    text-align: center;
+    text-decoration: underline;
+    background-color: cyan;
+ }
+p{
+    text-align: left;
+    text-indent: 28px;
+    color: rgb(53, 99, 16);
+    font-variant: small-caps;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    
+}
+.destaque{
+    color: #00126d;
+    font-weight: bold;
+}
